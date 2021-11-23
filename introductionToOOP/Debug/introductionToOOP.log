@@ -1,0 +1,3 @@
+﻿  introductionToOOP.cpp
+C:\Users\Сергей\source\repos\introductionToOOP\introductionToOOP\introductionToOOP.cpp(360,19): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Сергей\source\repos\introductionToOOP\introductionToOOP\introductionToOOP.cpp(382,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
